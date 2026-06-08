@@ -11,7 +11,7 @@ Sede: Online
 
 Este proyecto corresponde a la Evaluación sumativa 1 de la asignatura Desarrollo Orientado a Objetos I. 
 Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, 
-aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
+aplicando los principios de encapsulamiento, composición, herencia.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
