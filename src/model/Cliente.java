@@ -9,6 +9,9 @@ package model;
  * @author ASUS TUF
  */
 public class Cliente extends Persona {
+    /**
+     * Atributo propio del cliente, servicio contratado
+     */
     private String servicio;
 
     public Cliente(String servicio, String nombre, Rut rut, int telefono, int edad, Direccion direccion) {
