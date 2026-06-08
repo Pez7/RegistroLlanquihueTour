@@ -48,7 +48,7 @@ public class Main {
              * Se crea una Persona usando composición:
              * Persona tiene un Rut y tiene una Dirección
              */
-            Cliente cliente = new Cliente("Trekking","Judith Nuñez",rutCliente,956625412,30,dir2); 
+            Cliente cliente = new Cliente("Trekking por el volcán","Judith Nuñez",rutCliente,956625412,30,dir2); 
             
             //Creacion de Colaborador2
             
