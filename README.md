@@ -1,12 +1,14 @@
 Evaluación Sumativa 1  – Realizando validación, excepciones y relaciones entre clases Desarrollo Orientado a Objetos I
 
 👤 Autor del proyecto
+
 Nombre completo: María Paz Rojas
 Sección: 2026_202_OL_PRY2202_24613392_PCT
 Carrera: Analista programador computacional
 Sede: Online
 
 📘 Descripción general del sistema
+
 Este proyecto corresponde a la Evaluación sumativa 1 de la asignatura Desarrollo Orientado a Objetos I. 
 Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, 
 aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
