@@ -27,6 +27,6 @@ public class Validador {
     public static boolean telefonoValido(int telefono) {
         String largo = Integer.toString(telefono);
         return largo.length() == 9;
-//return telefono > 0 && !texto.trim().isEmpty();
+
     }
 }
