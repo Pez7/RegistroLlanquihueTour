@@ -22,7 +22,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:
 
-git clone 
+git clone https://github.com/Pez7/RegistroLlanquihueTour.git
 
 Abre el proyecto en NetBeans.
 
@@ -32,4 +32,4 @@ Ejecuta el archivo Main.java desde el paquete app.
 
 Leer los resultados en consola.
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: [DD/MM/2025]
+Repositorio GitHub: https://github.com/Pez7/RegistroLlanquihueTour.git Fecha de entrega: [08/06/2026]
